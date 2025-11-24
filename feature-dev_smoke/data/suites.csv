@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Nov 24 07:27:27 UTC 2025","Mon Nov 24 07:27:55 UTC 2025","28381","Test Suite","Salesforce","tests.SFLead","tests.SFLead","checkUI","checkUI","Check labels theo từng section"
+"failed","Mon Nov 24 07:33:37 UTC 2025","Mon Nov 24 07:34:05 UTC 2025","27932","Test Suite","Salesforce","tests.SFLead","tests.SFLead","checkUI","checkUI","Check labels theo từng section"
