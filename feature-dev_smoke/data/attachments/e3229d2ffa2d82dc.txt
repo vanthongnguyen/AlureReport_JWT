@@ -1,0 +1,2 @@
+❌ Label 'Grouping': API mismatch → Expect = Test Grouping__c | UI = [Grouping__c]
+❌ Label 'Search Term 1 test' không tìm thấy trên UI (API: Search_Term_1__c)

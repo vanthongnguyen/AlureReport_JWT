@@ -1,0 +1,7 @@
+➤➤➤ Field: Interest Product Category
+  ❌ Missing values:
+    - Barramundi test
+    - Value Added test
+  ❌ Extra values:
+    - Barramundi
+    - Value Added

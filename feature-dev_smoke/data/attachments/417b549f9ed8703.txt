@@ -1,0 +1,8 @@
+❌ Missing Labels:
+   - Section: Account Information
+     ➤ Missing: [Search Term 1 test]
+❌ Extra Labels:
+   - Section: Account Information
+     ➤ Extra: [Search Term 1, Checkbox Test]
+   - Section: System Information
+     ➤ Extra: [SAP Account Number]

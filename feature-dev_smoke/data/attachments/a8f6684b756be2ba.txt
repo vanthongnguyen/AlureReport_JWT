@@ -1,0 +1,8 @@
+❌ Extra fields in UI:
+  - Amount
+  - Closed Reason
+  - Opportunity Owner
+  - Opportunity Record Type
+  - Primary Quote
+  - Probability (%)
+  - Sale To

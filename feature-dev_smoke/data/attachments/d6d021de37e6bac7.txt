@@ -1,0 +1,6 @@
+❌ Field: 'Category'
+   ➥ Value Level 1: 'Provider'
+      ⚠️ Missing Level 2 values:
+         - Restaurant test
+      ⚠️ Extra Level 2 values:
+         - Restaurant

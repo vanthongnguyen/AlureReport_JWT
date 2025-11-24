@@ -1,0 +1,2 @@
+❌ Extra readonly field:
+  - Account Record Type
