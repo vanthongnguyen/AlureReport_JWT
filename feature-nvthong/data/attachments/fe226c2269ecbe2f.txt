@@ -1,0 +1,3 @@
+❌ Extra required fields:
+  - Account Name
+  - Last Name

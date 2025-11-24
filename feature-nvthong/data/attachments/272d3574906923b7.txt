@@ -1,0 +1,14 @@
+❌ Extra in UI:
+  - Birthday__c => Date
+  - Category__c => Picklist
+  - CreatedDate__c => Formula (Date)
+  - Dead_Reason__c => Text Area(255)
+  - Destination_Country__c => Picklist
+  - Email_Opt_In__c => Checkbox
+  - Field_Test_Checkbox__c => Checkbox
+  - Interest_Product_Category__c => Picklist (Multi-Select)
+  - Lead_Origin__c => Text(255)
+  - Sub_Category__c => Picklist
+  - Sub_Status__c => Picklist
+  - Territory__c => Picklist
+  - W2L__c => Checkbox

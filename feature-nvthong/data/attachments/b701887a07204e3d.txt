@@ -1,0 +1,5 @@
+❌ Extra required fields:
+  - Account Name
+  - Close Date
+  - Opportunity Name
+  - Stage

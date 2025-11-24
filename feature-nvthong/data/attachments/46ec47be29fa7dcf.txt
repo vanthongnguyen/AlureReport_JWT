@@ -1,0 +1,17 @@
+❌ Extra in UI:
+  - Account_Origin__c => Formula (Text)
+  - Account_Source__c => Formula (Text)
+  - SBQQ__AmendedContract__c => Lookup(Contract)
+  - Budget_Confirmed__c => Checkbox
+  - Competitor__c => Text(255)
+  - SBQQ__Contracted__c => Checkbox
+  - SBQQ__CreateContractedPrices__c => Checkbox
+  - Discovery_Completed__c => Checkbox
+  - Estimated_Shipment_Date_ETD__c => Formula (Date)
+  - Loss_Reason__c => Picklist
+  - SBQQ__OrderGroupID__c => Text(255)
+  - SBQQ__Ordered__c => Checkbox
+  - SBQQ__QuotePricebookId__c => Text(18)
+  - SBQQ__Renewal__c => Checkbox
+  - SBQQ__RenewedContract__c => Lookup(Contract)
+  - ROI_Analysis_Completed__c => Checkbox

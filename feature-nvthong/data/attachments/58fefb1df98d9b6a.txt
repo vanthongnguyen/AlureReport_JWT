@@ -1,0 +1,14 @@
+❌ Missing fields in UI:
+  - Last Name
+❌ Extra fields in UI:
+  - Account Name
+  - Birthdate
+  - Contact Owner
+  - Email
+  - Gender
+  - Lead Source
+  - Mailing Address
+  - Mobile
+  - Name
+  - Phone
+  - Description
