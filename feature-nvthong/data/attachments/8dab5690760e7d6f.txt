@@ -1,0 +1,5 @@
+❌ Extra readonly fields:
+  - Last Modified By
+  - Account Owner
+  - Account Record Type
+  - Created By
